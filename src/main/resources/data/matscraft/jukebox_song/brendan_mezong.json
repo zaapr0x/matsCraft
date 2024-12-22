@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.matscraft.brendan_mezong_music_disc.desc"
+  },
+  "length_in_seconds": 49.0,
+  "sound_event": "matscraft:brendan_mezong"
+}

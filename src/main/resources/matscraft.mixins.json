@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.mallardlabs.matscraft.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"PlayerDropItemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "matscraft",
+	"version": "${version}",
+	"name": "matsCraft",
+	"description": "matsFi for Minecraft",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/matscraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mallardlabs.matscraft.MatsCraft","com.mallardlabs.matscraft.gui.MatsBalanceOverlay"
+		],
+
+		"client": [
+			"com.mallardlabs.matscraft.MatsCraftClient"
+		],
+		"fabric-datagen": [
+			"com.mallardlabs.matscraft.MatsCraftDataGenerator"
+		]
+	},
+	"mixins": [
+		"matscraft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

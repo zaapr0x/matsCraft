@@ -1,0 +1,29 @@
+{
+  "item.matscraft.mats": "Mats",
+  "item.matscraft.matt_luongo": "Matt Luongo",
+  "item.matscraft.lowpolyduck": "LowPolyDuck",
+
+  "item.matscraft.chainsaw": "Chainsaw",
+
+  "item.matscraft.bar_brawl_music_disc": "Bar Brawl Music Disc",
+  "item.matscraft.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+  "item.matscraft.brendan_mezong_music_disc": "The Mezong of the Summer Music Disc",
+  "item.matscraft.brendan_mezong_music_disc.desc": "Brendan Bald - The Mezong of the Summer",
+  "item.matscraft.nanndo_memememezo_music_disc": "Memememezo Music Disc",
+  "item.matscraft.nanndo_memememezo_music_disc.desc": "Nanndo Snow - Memememezo",
+
+  "block.matscraft.common_mats_ore": "Common Mats Ore",
+  "block.matscraft.uncommon_mats_ore": "Uncommon Mats Ore",
+  "block.matscraft.rare_mats_ore": "Rare Mats Ore",
+  "block.matscraft.epic_mats_ore": "Epic Mats Ore",
+  "block.matscraft.legendary_mats_ore": "Legendary Mats Ore",
+
+  "block.matscraft.magic_block": "Magic Block",
+
+  "itemgroup.matscraft.matsfi_items": "matsFi",
+  "itemgroup.matscraft.mats_ore_blocks": "mats Ores",
+
+  "sounds.matscraft.chainsaw_cut" : "Chainsaw Cut",
+  "sounds.matscraft.chainsaw_pull": "Chainsaw Pull"
+
+}

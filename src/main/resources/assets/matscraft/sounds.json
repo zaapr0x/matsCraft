@@ -1,0 +1,68 @@
+{
+  "chainsaw_cut": {
+    "subtitle": "sounds.matscraft.chainsaw_cut",
+    "sounds": [
+      "matscraft:chainsaw_cut"
+    ]
+  },
+  "chainsaw_pull": {
+    "subtitle": "sounds.matscraft.chainsaw_pull",
+    "sounds": [
+      "matscraft:chainsaw_pull"
+    ]
+  },
+  "magic_block_break": {
+    "subtitle": "sounds.matscraft.magic_block_break",
+    "sounds": [
+      "matscraft:magic_block_break"
+    ]
+  },
+  "magic_block_step": {
+    "subtitle": "sounds.matscraft.magic_block_step",
+    "sounds": [
+      "matscraft:magic_block_step"
+    ]
+  },
+  "magic_block_place": {
+    "subtitle": "sounds.matscraft.magic_block_place",
+    "sounds": [
+      "matscraft:magic_block_place"
+    ]
+  },
+  "magic_block_hit": {
+    "subtitle": "sounds.matscraft.magic_block_hit",
+    "sounds": [
+      "matscraft:magic_block_hit"
+    ]
+  },
+  "magic_block_fall": {
+    "subtitle": "sounds.matscraft.magic_block_fall",
+    "sounds": [
+      "matscraft:magic_block_fall"
+    ]
+  },
+  "bar_brawl": {
+    "sounds": [
+      {
+        "name": "matscraft:bar_brawl",
+        "stream": true
+      }
+    ]
+  },
+  "brendan_mezong": {
+    "sounds": [
+      {
+        "name": "matscraft:brendan_mezong",
+        "stream": true
+      }
+    ]
+  },
+  "nanndo_memememezo": {
+    "sounds": [
+      {
+        "name": "matscraft:nanndo_memememezo",
+        "stream": true
+      }
+    ]
+  }
+}
